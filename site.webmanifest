@@ -1,0 +1,20 @@
+{
+  "name": "Spiffinity Cleaning & Laundry LLC",
+  "short_name": "Spiffinity",
+  "start_url": "/spiffinity-preview/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#004aad",
+  "icons": [
+    {
+      "src": "/spiffinity-preview/img/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/spiffinity-preview/img/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
